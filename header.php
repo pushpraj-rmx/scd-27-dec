@@ -50,7 +50,7 @@
 											<ul class="dropdown-menu">
 												<li><a class="dropdown-item" href="#"> Pathology &raquo;</a>
 													<ul class="submenu dropdown-menu">
-														<li><a class="dropdown-item" href="blood-test.html">Blood
+														<li><a class="dropdown-item" href="blood-test.php">Blood
 																Test</a></li>
 														<li><a class="dropdown-item" href="#">Submenu item 2</a></li>
 														<li><a class="dropdown-item" href="#">Submenu item 3 </a></li>
@@ -72,7 +72,7 @@
 												<li><a class="dropdown-item" href="#"> Dropdown item 4 </a>
 											</ul>
 										</li>
-										<li class="nav-item"><a class="nav-link" href="blood-test.html">BLOOD TEST</a></li>
+										<li class="nav-item"><a class="nav-link" href="blood-test.php">BLOOD TEST</a></li>
 										<li class="nav-item"><a class="nav-link" href="about.php">ABOUT US</a></li>
 										<li class="nav-item">
 											<a class="nav-link" href="">PACKAGES</a>
