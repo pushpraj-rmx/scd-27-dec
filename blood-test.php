@@ -664,6 +664,77 @@
 	<!--//section blog posts -->
 
 
+
+
+	<div class="banner-appointment-form">
+		<div class="container">
+			<div class="row no-gutters">
+				<div class="col-sm-5 col-lg-5 order-2 order-sm-2 mt-3 mt-md-0 text-center">
+					<img src="https://www.sheetalchhayadiagnostics.com/front/images/content/banner-appointment.png" alt="pathology lab in palam" class="banner-appointment-form-image">
+				</div>
+				<div class="col-sm-7 col-lg-7 order-1 order-sm-1 d-flex">
+					<div class="pt-2 pt-lg-6 px-lg-3 text-center">
+						<div class="title-wrap-alt">
+							<h2 class="double-title double-title--vcenter double-title--center" data-title="Appointment"><span>Make an <span class="theme-color">Appointment</span></span></h2>
+						</div>
+						<p>We believe in providing the best possible care to all our existing patients and welcome
+							new patients to sample.</p>
+						<form class="contact-form" method="post" action="https://www.sheetalchhayadiagnostics.com/home/processcontact/" novalidate="">
+															 <div class="successform">
+								<p>Your message was sent successfully!</p>
+							</div>
+							<div class="errorform">
+								<p>Something went wrong, try refreshing and submitting the form again.</p>
+							</div>
+							<div>
+								<input type="text" class="form-control" name="name" placeholder="Your name*">
+							</div>
+							<div class="row row-sm-space mt-15">
+								<div class="col-sm-6"><input type="text" class="form-control" name="phone" placeholder="Your Phone"></div>
+								<div class="col-sm-6 mt-15 mt-sm-0"><input type="text" class="form-control" name="email" placeholder="Email*"></div>
+							</div>
+							<div class="mt-15">
+								<textarea class="form-control" name="message" placeholder="Message"></textarea>
+							</div>
+							<div class="mt-2 mt-lg-4">
+								<button type="submit" name="sendmail" class="btn"><i class="icon-right-arrow"></i><span>Send request</span><i class="icon-right-arrow"></i></button>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	<!--section specialists-->
 	<div class="section bg-norepeat bg-right mt-4 bg-md-none section-top-padding"
 		style="background-image: url(images/bg-top-right.png);margin-bottom:80px;">
