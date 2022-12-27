@@ -1,0 +1,21 @@
+.gallery-img {
+    transition: transform 0.3s ease; /* add a transition effect for the zoom */
+    transform-origin: center; /* set the origin for the transformation to the center of the element */
+  }
+
+
+.gallery-img:hover {
+    transform: scale(1.1); /* scale the element up by 20% on hover */
+    cursor: pointer;
+  }
+
+
+
+
+  .bni-sticky {
+    position: -webkit-sticky; /* for Safari */
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    background-color: white;
+  }
